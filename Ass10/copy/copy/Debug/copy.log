@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\care\source\repos\lb\ass10\copy\copy\source.cpp(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Source1.cpp
+  Generating Code...
+  copy.vcxproj -> C:\Users\care\source\repos\Lb\Ass10\copy\Debug\copy.exe

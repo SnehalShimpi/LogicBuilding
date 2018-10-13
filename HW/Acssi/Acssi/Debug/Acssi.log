@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\care\source\repos\lb\acssi\acssi\source.cpp(7): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\care\source\repos\lb\acssi\acssi\source.cpp(7): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\care\source\repos\lb\acssi\acssi\source.cpp(7): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\care\source\repos\lb\acssi\acssi\source.cpp(7): note: this argument is used as a buffer size
+  Acssi.vcxproj -> C:\Users\care\source\repos\Lb\Acssi\Debug\Acssi.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\care\source\repos\lb\ass15\assignment15.6\assignment15.6\source.cpp(29): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\care\source\repos\lb\ass15\assignment15.6\assignment15.6\source.cpp(29): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Assignment15.6.vcxproj -> C:\Users\care\source\repos\Lb\Ass15\Assignment15.6\Debug\Assignment15.6.exe
